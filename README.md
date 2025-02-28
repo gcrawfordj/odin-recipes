@@ -47,6 +47,12 @@ This website consists of a main index page with links to several recipe pages. E
 * Adding more images.
 * Making the website responsive.
 
+## Learnings
+
+* Because I was already familiar with basic HTML, I used this primarily as an excercise in Git
+* Spent a lot of time creating branches, switching between branches, and merging to main before pushing
+* Also fun to get more familiar with using the command line, I forced myself to do all of my file managment with the command line
+
 ## Author
 
 * Gavin Crawford - [gcrawfordj](https://github.com/gcrawfordj)
