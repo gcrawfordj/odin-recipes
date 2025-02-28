@@ -28,7 +28,7 @@ This website consists of a main index page with links to several recipe pages. E
 1.  Clone this repository to your local machine:
 
     ```bash
-    git clone [https://github.com/gcrawfordj/odin-recipes.git](https://www.google.com/search?q=https://github.com/gcrawfordj/odin-recipes.git)
+    git clone https://github.com/gcrawfordj/odin-recipes.git
     ```
 
 2.  Navigate to the cloned directory:
