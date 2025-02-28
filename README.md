@@ -49,7 +49,7 @@ This website consists of a main index page with links to several recipe pages. E
 
 ## Author
 
-* Gavin Crawford - [gcrawfordj](https://github.com/your-username)
+* Gavin Crawford - [gcrawfordj](https://github.com/gcrawfordj)
 
 ## The Odin Project
 
