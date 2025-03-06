@@ -6,19 +6,27 @@
   /* 2. Remove default margin */
   * {
     margin: 0;
+    background-color: beige;
   }
   
   body {
     /* 3. Add accessible line-height */
     line-height: 1.5;
+    text-align: center;
     /* 4. Improve text rendering */
     -webkit-font-smoothing: antialiased;
+  }
+
+  div {
+    text-align: center;
+    display: list-item;
   }
   
   /* 5. Improve media defaults */
   img, picture, video, canvas, svg {
     display: block;
     max-width: 100%;
+    margin: auto;
   }
   
   /* 6. Inherit fonts for form controls */
@@ -34,11 +42,17 @@
   /* 8. Improve line wrapping */
   p {
     text-wrap: pretty;
+    text-align: center;
   }
   h1, h2, h3, h4, h5, h6 {
     text-wrap: balance;
   }
 
 h1 {
-    color: deepskyblue;
+    color: maroon;
+    text-align: center;
+}
+
+h3 {
+  color: maroon;
 }
